@@ -15,7 +15,7 @@ Region: us-east-1 (N. Virginia), Availability Zones us-east-1a and us-east-1b.
 Created a VPC named MyCorpVPC with a CIDR block 192.168.0.0/16.
 Disabled default VPC to practice custom setup.
 
-![VPC Infrastructure](https://github.com/yashkumarunt/VPC-Architecture-with-Public-and-Private-Subnets-2-Tier-Setup-/blob/main/Screenshots/VPC%20INFRASTRUCTURE.png?raw=true)
+![VPC Overview 1](https://github.com/yashkumarunt/VPC-Architecture-with-Public-and-Private-Subnets-2-Tier-Setup-/blob/main/Screenshots/1.vpc%20overview%201.png)
 
 ![VPC Overview 2](https://github.com/yashkumarunt/VPC-Architecture-with-Public-and-Private-Subnets-2-Tier-Setup-/blob/main/Screenshots/1.%20vpc%20overview%202.png?raw=true)
 
